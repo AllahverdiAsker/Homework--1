@@ -1,0 +1,5 @@
+C:\Users\BAKU\source\repos\Homework-1\Homework-1\obj\Debug\netcoreapp3.1\Homework-1.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\Homework-1\Homework-1\obj\Debug\netcoreapp3.1\Homework-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\Homework-1\Homework-1\obj\Debug\netcoreapp3.1\Homework-1.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\Homework-1\Homework-1\obj\Debug\netcoreapp3.1\Homework-1.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\Homework-1\Homework-1\obj\Debug\netcoreapp3.1\Homework-1.csproj.CoreCompileInputs.cache
